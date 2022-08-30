@@ -13,5 +13,10 @@ Praktikum 4: Cupertino Button dan Loading Bar
 Praktikum 4:Floating Action Button (FAB)
 ![image](https://user-images.githubusercontent.com/64391578/187339822-0ae43a59-4d01-476e-a572-916eb0c7b6e4.png)
 
-Praktikum: Scaffold Widget
+Praktikum 4: Scaffold Widget
 ![image](https://user-images.githubusercontent.com/64391578/187345341-f045261a-4516-4568-93bc-3521b1117f27.png)
+
+Praktikum 4: Dialog Widget
+![image](https://user-images.githubusercontent.com/64391578/187348141-37e0ec04-a280-45d6-a3a1-815c6003a6cd.png)
+
+
