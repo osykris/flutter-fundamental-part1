@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.yellow,
       ),
       home: const Scaffold(
-        body: const MyLayout(),
+        body: MyLayout(),
       ),
     );
   }
